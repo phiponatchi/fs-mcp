@@ -37,7 +37,7 @@ Deletes a specified file from the file system.
 {
   "method": "tools/call",
   "params": {
-    "name": "delete",
+    "name": "delete_file",
     "arguments": {
       "filepath": "/path/to/fs/file.txt"
     }
